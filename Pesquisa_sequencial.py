@@ -1,3 +1,4 @@
+# Pesquisa sencias de fila
 L = [15, 10, 7, 27, 39]
 p = int(input("Digite o valor a procurar: "))
 achou = False
