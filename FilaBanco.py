@@ -1,3 +1,4 @@
+# Fila de espera banco
 último = 10
 fila = list(range(1, último + 1))
 while True:
